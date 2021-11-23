@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="android" />
+    <string name="members_400k" />
+    <string name="welcome_to_android" />
+</resources>

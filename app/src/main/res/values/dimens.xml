@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="trending_view_corner_radius" />
+    <dimen name="trending_view_width" />
+    <dimen name="trending_view_height" />
+</resources>
